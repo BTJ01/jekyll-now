@@ -8,7 +8,7 @@ This is a whole new world for me! Not just creating a blog, but using GitHub, co
 
 I'm feeling a little overwhelmed with the amount of stuff; the services, apps, libraries, add-ons, plug-ins, features, new lingo, blah blah blah.  I'm thankful I can at least manage projects and this blog in one convenient place. I imagine in a few months this will all be a little more comfortable and familiar. It will be fun to look back and see what progress I've made. 
 
-I want to thank #barryclark for creating Jekyll-Now which has allowed me to set up a basic static blogging site with minimal struggles. I'm loving how supportive the programming community feels so far! There's seemingly limitless resources to learn and grow and I'll be tapping into as many as I need to in order to accomplish my goals. 
+I want to thank #barryclark for creating Jekyll-Now which has allowed me to set up a basic static blogging site with minimal struggles. I'm loving how supportive the programming community feels so far! There's seemingly limitless resources to learn and grow and I'll be tapping into as many as I need in order to accomplish my goals. 
 
 Speaking of which, my current goals for this new journey:
   1. Spend the next year reading every book about DS that I can get my hands on
