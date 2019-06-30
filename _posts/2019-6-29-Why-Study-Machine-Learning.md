@@ -11,7 +11,7 @@ For the past couple of years, I have been looking for something that checks all 
 This list includes things like:
 - [ ] Possibility of working remotely
 - [ ] Challenging, project-based work
-- [ ] Pays well (for me personally this is >$75k with potential for >$100k within a few years)
+- [ ] Pays well (for me this is >$75k with potential for >$100k)
 - [ ] Mix of collaborative and solo work responsibilities
 - [ ] 'Future-proof' growing/high-demand field
 - [ ] Skills are transferable across industries
