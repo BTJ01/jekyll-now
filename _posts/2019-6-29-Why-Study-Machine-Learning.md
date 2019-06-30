@@ -9,7 +9,7 @@ I think the best place to start this blog is by discussing what lead me to decid
 For the past couple of years, I have been looking for something that checks all (or as many as possible) of my boxes for 'best career path'.
 
 This list includes things like:
-- [ ] Possibility of working remotely
+[ ] Possibility of working remotely
 - [ ] Challenging, project-based work
 - [ ] Pays well (for me this is >$75k with potential for >$100k)
 - [ ] Mix of collaborative and solo work responsibilities
